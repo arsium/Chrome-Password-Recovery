@@ -1,0 +1,14 @@
+C:\Users\mehdi\Desktop\FireFox-Thief-master\Chrome-Password-Recovery-master\bin\Debug\ChromeRecovery.exe.config
+C:\Users\mehdi\Desktop\FireFox-Thief-master\Chrome-Password-Recovery-master\bin\Debug\ChromeRecovery.exe
+C:\Users\mehdi\Desktop\FireFox-Thief-master\Chrome-Password-Recovery-master\bin\Debug\ChromeRecovery.pdb
+C:\Users\mehdi\Desktop\FireFox-Thief-master\Chrome-Password-Recovery-master\obj\Debug\ChromeRecovery.csprojAssemblyReference.cache
+C:\Users\mehdi\Desktop\FireFox-Thief-master\Chrome-Password-Recovery-master\obj\Debug\ChromeRecovery.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Desktop\FireFox-Thief-master\Chrome-Password-Recovery-master\obj\Debug\ChromeRecovery.exe
+C:\Users\mehdi\Desktop\FireFox-Thief-master\Chrome-Password-Recovery-master\obj\Debug\ChromeRecovery.pdb
+E:\Project C#\FireFox-Thief-master\Chrome-Password-Recovery-master\bin\Debug\ChromeRecovery.pdb
+E:\Project C#\FireFox-Thief-master\Chrome-Password-Recovery-master\obj\Debug\ChromeRecovery.csprojAssemblyReference.cache
+E:\Project C#\FireFox-Thief-master\Chrome-Password-Recovery-master\obj\Debug\ChromeRecovery.csproj.CoreCompileInputs.cache
+E:\Project C#\FireFox-Thief-master\Chrome-Password-Recovery-master\obj\Debug\ChromeRecovery.pdb
+E:\Project C#\FireFox-Thief-master\Chrome-Password-Recovery-master\bin\Debug\ChromeRecovery.dll.config
+E:\Project C#\FireFox-Thief-master\Chrome-Password-Recovery-master\bin\Debug\ChromeRecovery.dll
+E:\Project C#\FireFox-Thief-master\Chrome-Password-Recovery-master\obj\Debug\ChromeRecovery.dll
